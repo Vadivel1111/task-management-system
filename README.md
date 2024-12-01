@@ -1,1 +1,1 @@
-this is our first phase of task management system using html, css and javascript.
+This is our first phase of task management system using html, css and javascript.
